@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "this is GCS demo",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-11-07T13:38:07.564Z",
+  "updateTime" : "2023-11-07T13:47:28.529Z",
   "objectRefs" : [ ]
 }
