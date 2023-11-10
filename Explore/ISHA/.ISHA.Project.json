@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "3IFjiKyG4qbegpIVJ2gE23",
+    "name" : "ISHA",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-10T11:13:32.662Z",
+  "objectRefs" : [ ]
+}
