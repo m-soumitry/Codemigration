@@ -1,0 +1,48 @@
+{
+  "objectInfo" : {
+    "id" : "aot7poiZJxZkUV9G1d0tOg",
+    "name" : "TF_1",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "wnHUPAZf5kck8jK-gt-5503429-2023-11-10T10:54:37.363Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "This is developed by ISHA",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2023-11-10T10:58:30.645Z",
+  "objectRefs" : [ {
+    "id" : "0q5ezX48viPcXDvvR1Ghon",
+    "name" : "MT_M_FF_CustomerDetails",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CQ150Z000000000010"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "changed-29 June",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Leela_DEMO/DM2"
+  } ]
+}
