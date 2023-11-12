@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "15UUCLX03EAePLr2nmhKGw",
+    "name" : "V1",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Testing V1 rest api call",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-12T13:58:34.670Z",
+  "objectRefs" : [ ]
+}
