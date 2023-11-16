@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "2XfvohOirQcicQr7cC97e2",
+    "name" : "DM1",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Testing creating folder rest V1 api",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-12T13:58:34.670Z",
+  "objectRefs" : [ ]
+}
