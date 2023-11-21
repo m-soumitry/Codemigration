@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "2OAsUla3hGShgdpXPzYXqc",
+    "name" : "Spoorthi",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-20T06:57:09.692Z",
+  "objectRefs" : [ ]
+}
