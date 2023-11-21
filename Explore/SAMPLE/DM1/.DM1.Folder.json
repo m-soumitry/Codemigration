@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "9q3KjHt5Fg0kS36u5y2O4m",
+    "name" : "DM1",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-21T10:23:51.469Z",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "lSf1dwIOyWXeGe7S4KO8IS",
+    "name" : "SAMPLE",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "mutiilpe folder",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-21T10:23:51.474Z",
+  "objectRefs" : [ ]
+}
