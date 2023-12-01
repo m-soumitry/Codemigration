@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "0ktCOjVdI96c8Gu5bu7ge3",
+    "name" : "DFEnS Reference to Pipeline Area",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "use iics patterns",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-12-01T12:02:16.162Z",
+  "objectRefs" : [ ]
+}
