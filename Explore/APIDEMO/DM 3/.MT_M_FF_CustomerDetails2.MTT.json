@@ -1,0 +1,88 @@
+{
+  "objectInfo" : {
+    "id" : "d4irA7oDYKrdmHsu0buuS7",
+    "name" : "MT_M_FF_CustomerDetails2",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CQ150Z00000000001Z"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "\r\nIM Changed--2nddd Commit",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-12-01T11:24:47.596Z",
+  "objectRefs" : [ {
+    "id" : "49rE5YXrfwdd9X2DD4xqqe",
+    "name" : "SpooFlatFileConn",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CQ150B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "gx3Ihy2qhocf9hhUgNpOs3",
+    "name" : "M_FF_CustomerDetails",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CQ151700000000002F"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "tag2-JUNE24--Main Mapping",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/APIDEMO/DM2"
+  }, {
+    "id" : "0i0Vy18MPYjdeqpc6atfmo",
+    "name" : "invrlx7ips9",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01002F25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
