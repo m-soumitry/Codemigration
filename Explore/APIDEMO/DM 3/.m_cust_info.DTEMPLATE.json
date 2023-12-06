@@ -17,13 +17,13 @@
       } ],
       "additionalInfo" : {
         "description" : "1:27PM July 21-- Checkin\n\nMy name is leela",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-12-01T11:24:47.595Z",
+  "updateTime" : "2023-12-06T11:27:53.417Z",
   "objectRefs" : [ {
     "id" : "49rE5YXrfwdd9X2DD4xqqe",
     "name" : "SpooFlatFileConn",
