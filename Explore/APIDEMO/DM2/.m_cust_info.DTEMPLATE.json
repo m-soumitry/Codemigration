@@ -16,14 +16,22 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
+<<<<<<< HEAD
         "description" : "1:27PM July 21-- Checkin",
+=======
+        "description" : "1:27PM July 21-- Checkin---hellooooo",
+>>>>>>> cc86b37f4829775a24c1af7a726f01dd9bd3642e
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
+<<<<<<< HEAD
   "updateTime" : "2023-12-18T16:05:44.239Z",
+=======
+  "updateTime" : "2023-12-18T17:21:55.623Z",
+>>>>>>> cc86b37f4829775a24c1af7a726f01dd9bd3642e
   "objectRefs" : [ {
     "id" : "1LmTPyFSiCVjPvm4PwUikx",
     "name" : "SpooFlatFileConn",

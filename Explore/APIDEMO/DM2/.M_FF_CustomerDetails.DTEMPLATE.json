@@ -16,14 +16,22 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
+<<<<<<< HEAD
         "description" : "tag2-JUNE24--Main Mapping",
+=======
+        "description" : "ishsaaaaaaaaaaaaaaaaaaa",
+>>>>>>> cc86b37f4829775a24c1af7a726f01dd9bd3642e
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
+<<<<<<< HEAD
   "updateTime" : "2023-12-18T16:07:33.439Z",
+=======
+  "updateTime" : "2023-12-18T17:23:13.746Z",
+>>>>>>> cc86b37f4829775a24c1af7a726f01dd9bd3642e
   "objectRefs" : [ {
     "id" : "1LmTPyFSiCVjPvm4PwUikx",
     "name" : "SpooFlatFileConn",

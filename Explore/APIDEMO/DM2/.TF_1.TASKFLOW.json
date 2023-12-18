@@ -20,7 +20,7 @@
     }
   },
   "dataFileExtension" : "xml",
-  "updateTime" : "2023-11-12T12:10:22.857Z",
+  "updateTime" : "2023-12-18T17:21:39.917Z",
   "objectRefs" : [ {
     "id" : "90V71ENmOapbRsrZLbFHA6",
     "name" : "MT_M_FF_CustomerDetails",
@@ -33,10 +33,7 @@
       "repoInfo" : {
         "repoHandle" : "01CQ150Z000000000018"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "changed-29 June",
         "contentType" : null,
